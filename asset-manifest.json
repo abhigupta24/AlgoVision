@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlgoVision/static/css/main.3aa17de7.css",
+    "main.js": "/AlgoVision/static/js/main.ae3e4704.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AlgoVision/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AlgoVision/index.html",
+    "main.3aa17de7.css.map": "/AlgoVision/static/css/main.3aa17de7.css.map",
+    "main.ae3e4704.js.map": "/AlgoVision/static/js/main.ae3e4704.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AlgoVision/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa17de7.css",
+    "static/js/main.ae3e4704.js"
+  ]
+}
