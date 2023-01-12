@@ -6,7 +6,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* <SideBar></SideBar> */}
       <SortingVisualizer></SortingVisualizer>
     </div>
   );
